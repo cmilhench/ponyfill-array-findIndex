@@ -1,0 +1,23 @@
+{
+  "name": "ponyfill-array-findindex",
+  "version": "1.0.0",
+  "description": "ES6 Array.findIndex() ponyfill",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmilhench/ponyfill-array-findIndex.git"
+  },
+  "keywords": [
+    "array",
+    "findIndex",
+    "ponyfill",
+    "polyfill"
+  ],
+  "author": "Colin Milhench <colin@milhen.ch> (http://milhen.ch/)",
+  "license": "MIT"
+}
